@@ -1,7 +1,6 @@
 # Matthew Evrard
 - Brooklyn, NY
-- matthew.evrard@downstate.edu
-- 347.255.8004
+- evrard@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/matthew-evrard)
 
 Ph.D. candidate specializing in neuroscience with a focus on the maturation of the prefrontal cortex and its impact on psychological disorders. Experienced in data science, machine learning, and neural networks. Seeking roles at the intersection of Neuroscience and AI.
