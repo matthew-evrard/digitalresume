@@ -1,60 +1,52 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Matthew Evrard
+- Brooklyn, NY
+- matthew.evrard@downstate.edu
+- 347.255.8004
+- [LinkedIn](https://www.linkedin.com/in/matthew-evrard)
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
-
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+Ph.D. candidate specializing in neuroscience with a focus on the maturation of the prefrontal cortex and its impact on psychological disorders. Experienced in data science, machine learning, and neural networks. Seeking roles at the intersection of Neuroscience and AI.
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span>Research Assistant for Dr. Sheryl Smith, SUNY Downstate Medical Center</span> <span>May 2023 - present</span>
+- Investigated the role of α4βδ GABA(A) receptors in the brain’s prefrontal cortex and its impact on adult anxiety.
+- Utilized Python for statistical analysis and 3D modeling.
+- Developed an automated workflow for neuroimaging processes.
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+### <span>Research Assistant for Dr. Jacapo Annese, UC San Diego</span> <span>May 2012 - May 2014</span>
+- Employed machine learning techniques for post-mortem brain analysis.
+- Integrated neuroimaging data with histological analysis.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
-
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
-## Education
-
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+### <span>Research Assistant for Dr. Edmund Fantino, UC San Diego</span> <span>May 2012 - May 2014</span>
+- Developed a mindfulness induction protocol.
+- Used statistical software for experimental data analysis.
+- Co-authored highly-cited research publications.
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- **Data Science**: Proficient in Python and R for statistical analysis.
+- **Machine Learning**: Experience with neural network models.
+- **Neuroscience**: Expertise in synaptic pruning, GABA(A) receptors, and neural mechanisms linked to psychological disorders.
+- **Communication**: Strong presentation and writing skills.
+
+## Education
+
+### <span>Ph.D., Neural and Behavioral Sciences, SUNY Downstate Medical Center - New York, NY</span> <span>Expected Oct 2023</span>
+- Thesis: Uncovering the Role of α4βδ GABAA Receptors in Synaptic Pruning of the Prelimbic Cortex and its Impact on Anxiety Response in Adulthood
+
+### <span>MA, Individualized Program in Education, Medicine, and Psychology, San Diego State University - San Diego, CA</span> <span>2014</span>
+
+### <span>BS, Psychology (Biology specialization), SUNY Buffalo State University - Buffalo, NY</span> <span>2010</span>
+
+## Publications
+- [Scientific Reports, 2021](https://doi.org/10.1038/s41598-021-00520-2)
+- [Psychological Science, 2015](https://doi.org/10.1177/0956797615597625)
+
+## Conference Presentations
+- Society for Neuroscience, 2018
+- Society for Neuroscience, 2016
+
+## Affiliations
+- Out in Science, Technology, Engineering, and Mathematics (oSTEM)
+- Center for Mindfulness and Compassion
+- Society for Neuroscience
